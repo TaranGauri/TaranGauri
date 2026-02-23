@@ -3,35 +3,49 @@
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=9F00FF&center=true&vCenter=true&width=700&lines=🚀+Commander+of+Galactic+Prisons;🌌+Crafting+custom+PvP+engines+for+MCBE;✨+Building+worlds,+servers,+and+galaxies;🐍+Mastering+Python+among+the+stars" alt="Typing SVG" />
+  🚀 Taran Gauri
 </h1>
+
+<p align="center">
+  Developer • Galactic Prisons • Discord Bots
+</p>
 
 ---
 
 ### 🌠 About Me
-- 🛠️ Owner & Developer of **Galactic Prisons** (Minecraft Bedrock)
-- 💻 I build with **JavaScript, Python, HTML, CSS**
-- 🌌 Love **space-themed projects** ✨
-- 🚀 Currently crafting **Websites and Minecraft Servers**
+- 🛠️ Developer & Owner of **Galactic Prisons** (Minecraft Bedrock)
+- 💻 Backend & game systems developer
+- ⚙️ Building with **JavaScript, Python, SQL**
+- 🌐 Web: **HTML, CSS**
+- 🚀 Focused on Minecraft systems, bots, and web apps
 
 ---
 
-### 🪐 Tech Constellation
+### 🪐 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,py,html,css,mysql,github,vscode,express,electron" />
 </p>
 
 ---
 
-### 🌌 GitHub Galaxy
+### 📦 Node.js
+- express  
+- axios  
+- aoi.js  
+- dotenv  
+- cors  
+
+---
+
+### 🌌 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaranGauri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9F00FF&icon_color=FF00FF" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranGauri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9F00FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TaranGauri&show_icons=true&theme=midnight-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranGauri&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 💫 Let’s Connect
+### 💫 Connect
 <p align="center">
   <a href="https://discord.gg/QEhVEcYHHZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/gauri_taran/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
